@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Protector
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Protector\ here.\r\n\ \r\n\ @author\ (Liyabona\ Saki)\ \r\n\ @version\ (version\ 3)\r\n
+comment1.params=
+comment1.target=Protector()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=
+comment5.target=void\ hit()
+numComments=6
